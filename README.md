@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sysKenz0
+- 👀 I’m interested in CyberSecurity, Programming in C#, Python, GLua, C++ & Java
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on creating and maintaining a popular gameserver that reaches mass popularity and revenue generation and is profitable
+- 📫 How to reach me Discord
+- 😄 Pronouns: Don't ever say pronouns to me it's 2 genders.
+- ⚡ Fun fact: Play on my Gmod server <3
